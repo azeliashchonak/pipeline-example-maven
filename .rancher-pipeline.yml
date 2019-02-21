@@ -1,5 +1,5 @@
 stages:
-- name: Build Test
+- name: Build
   steps:
   - runScriptConfig:
       image: maven:3-jdk-7
