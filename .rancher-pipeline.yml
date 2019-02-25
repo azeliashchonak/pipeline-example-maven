@@ -16,4 +16,4 @@ stages:
       path: ./deployment.yaml
 branch:
   include:
-  - master
+  - pipeline
